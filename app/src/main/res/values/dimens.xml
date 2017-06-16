@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dialogPaddingTop">30dp</dimen>
+    <dimen name="dialogPaddingBottom">30dp</dimen>
+    <dimen name="dialogPaddingLeft">15dp</dimen>
+    <dimen name="dialogPaddingRight">15dp</dimen>
+    <dimen name="normalTextViewSize">14sp</dimen>
+    <dimen name="selectUserRole">14sp</dimen>
+    <dimen name="paddin_bottom_reg_choose_role">60dp</dimen>
+    <dimen name="padding_top_reg_choose_role">60dp</dimen>
+    <dimen name="paddnig_right_reg_choose_role">20dp</dimen>
+    <dimen name="padding_left_reg_choose_role">20dp</dimen>
+</resources>

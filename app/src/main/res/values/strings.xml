@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MITApp</string>
+    <string name="login">Логин:</string>
+    <string name="pass">Пароль:</string>
+    <string name="enterBtnText">Вход</string>
+    <string name="cancelBtnText">Отмена</string>
+    <string name="registration">Регистрация</string>
+    <string name="selectUserRole">Выбрать роль входа:</string>
+    <string name="teacher">Преподаватель</string>
+    <string name="student">Студент</string>
+    <string name="next">Следующее</string>
+    <string name="first_name">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="last_name">Отчество</string>
+    <string name="phone">Телефон</string>
+    <string name="mail">Почта</string>
+    <string name="contract">Форма обучения : Контракт</string>
+    <string name="group">Группа</string>
+    <string name="is_kurator_switch">Куратор</string>
+    <string name="teacher_registration">Регистрация преподавателя</string>
+</resources>
